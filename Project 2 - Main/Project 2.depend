@@ -1,0 +1,297 @@
+# depslib dependency file v1.0
+1689218160 source:e:\project 2\ship.cpp
+	"ship.h"
+
+1689230342 e:\project 2\ship.h
+	<vector>
+
+1689229992 source:e:\project 2\main.cpp
+	"ship.h"
+	"player.h"
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<stdio.h>
+	<vector>
+
+1688979342 source:d:\project 2\main.cpp
+	"ship.h"
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<stdio.h>
+	<vector>
+
+1689081402 d:\project 2\ship.h
+
+1688982968 source:d:\project 2\ship.cpp
+	"ship.h"
+
+1688979342 source:d:\project 2\src\main.cpp
+	"ship.h"
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<stdio.h>
+	<vector>
+
+1689148176 d:\project 2\include\ship.h
+
+1688982968 source:d:\project 2\src\ship.cpp
+	"ship.h"
+
+1689427152 e:\project 2\player.h
+	"ship.h"
+
+1689218160 source:c:\media\onedrive - huce\miscellaneous\project\visual studio code\project 2 (space shooter) - copy\ship.cpp
+	"ship.h"
+
+1689230342 c:\media\onedrive - huce\miscellaneous\project\visual studio code\project 2 (space shooter) - copy\ship.h
+	<vector>
+
+1689490585 source:c:\media\onedrive - huce\miscellaneous\project\visual studio code\project 2 (space shooter) - copy\player.cpp
+	"player.h"
+	<iostream>
+
+1689490081 c:\media\onedrive - huce\miscellaneous\project\visual studio code\project 2 (space shooter) - copy\player.h
+	"ship.h"
+
+1689490252 source:c:\media\onedrive - huce\miscellaneous\project\visual studio code\project 2 (space shooter) - copy\main.cpp
+	"ship.h"
+	"player.h"
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<stdio.h>
+	<vector>
+
+1689495556 source:e:\project 2 (space shooter)\ship.cpp
+	"ship.h"
+	<iostream>
+
+1689499470 e:\project 2 (space shooter)\ship.h
+	<vector>
+
+1689498624 source:e:\project 2 (space shooter)\main.cpp
+	"ship.h"
+	"player.h"
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<stdio.h>
+	<vector>
+
+1689499482 e:\project 2 (space shooter)\player.h
+	"ship.h"
+
+1689498624 source:e:\project 2 (space shooter)\player.cpp
+	"player.h"
+	<iostream>
+
+1690647433 source:c:\media\onedrive - huce\miscellaneous\project\visual studio code\project 2 (space shooter)\player.cpp
+	"player.h"
+	"game.h"
+	"ship.h"
+	"bullet.h"
+	<iostream>
+	<windows.h>
+	<vector>
+	<conio.h>
+
+1690645389 c:\media\onedrive - huce\miscellaneous\project\visual studio code\project 2 (space shooter)\player.h
+	"ship.h"
+	"bullet.h"
+	<vector>
+
+1690632614 c:\media\onedrive - huce\miscellaneous\project\visual studio code\project 2 (space shooter)\ship.h
+	<vector>
+
+1690632530 source:c:\media\onedrive - huce\miscellaneous\project\visual studio code\project 2 (space shooter)\ship.cpp
+	"ship.h"
+	<vector>
+
+1690648940 source:c:\media\onedrive - huce\miscellaneous\project\visual studio code\project 2 (space shooter)\main.cpp
+	"game.h"
+	"stage1.h"
+	"player.h"
+	"enemy.h"
+	<iostream>
+	<windows.h>
+	<vector>
+
+1690264516 source:c:\media\onedrive - huce\miscellaneous\project\visual studio code\project 2 (space shooter)\stage.cpp
+	"stage.h"
+	<vector>
+
+1690223097 c:\media\onedrive - huce\miscellaneous\project\visual studio code\project 2 (space shooter)\stage.h
+
+1690653894 source:c:\media\onedrive - huce\miscellaneous\project\visual studio code\project 2 (space shooter)\game.cpp
+	"game.h"
+	"stage.h"
+	"player.h"
+	"enemy.h"
+	"bullet.h"
+	<iostream>
+	<windows.h>
+	<vector>
+
+1690390743 c:\media\onedrive - huce\miscellaneous\project\visual studio code\project 2 (space shooter)\game.h
+	"stage.h"
+	"player.h"
+	"enemy.h"
+
+1689961552 source:d:\project 2 (space shooter)\game.cpp
+	"game.h"
+	"player.h"
+	"stage.h"
+	<iostream>
+	<windows.h>
+
+1689961502 d:\project 2 (space shooter)\game.h
+	"player.h"
+
+1689961504 d:\project 2 (space shooter)\ship.h
+	<vector>
+
+1689957314 source:d:\project 2 (space shooter)\ship.cpp
+	"ship.h"
+	<iostream>
+
+1689961162 source:d:\project 2 (space shooter)\stage.cpp
+	"stage.h"
+
+1689961162 d:\project 2 (space shooter)\stage.h
+	"player.h"
+
+1689961162 source:d:\project 2 (space shooter)\player.cpp
+	"ship.h"
+	"player.h"
+	"game.h"
+	<iostream>
+	<conio.h>
+
+1689961162 d:\project 2 (space shooter)\player.h
+	"ship.h"
+
+1689961250 source:d:\project 2 (space shooter)\main.cpp
+	"ship.h"
+	"player.h"
+	"stage.h"
+	"game.h"
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<vector>
+
+1690653422 source:c:\media\onedrive - huce\miscellaneous\project\visual studio code\project 2 (space shooter)\enemy.cpp
+	"enemy.h"
+	"ship.h"
+	"bullet.h"
+	<cstdlib>
+
+1690648853 c:\media\onedrive - huce\miscellaneous\project\visual studio code\project 2 (space shooter)\enemy.h
+	"ship.h"
+	"bullet.h"
+
+1690223531 c:\media\onedrive - huce\miscellaneous\project\visual studio code\project 2 (space shooter)\stage1.h
+	"stage.h"
+
+1690646096 source:c:\media\onedrive - huce\miscellaneous\project\visual studio code\project 2 (space shooter)\stage1.cpp
+	"stage1.h"
+	"enemy.h"
+	<iostream>
+	<vector>
+
+1690554622 c:\media\onedrive - huce\miscellaneous\project\visual studio code\project 2 (space shooter)\bullet.h
+	"player.h"
+	"enemy.h"
+	<vector>
+
+1690554648 source:c:\media\onedrive - huce\miscellaneous\project\visual studio code\project 2 (space shooter)\bullet.cpp
+	"bullet.h"
+	"ship.h"
+	<vector>
+
+1690954366 source:c:\media\onedrive - huce\miscellaneous\project\visual studio code\project 2 - main\src\bullet.cpp
+	"bullet.h"
+	"ship.h"
+	<vector>
+
+1690954349 c:\media\onedrive - huce\miscellaneous\project\visual studio code\project 2 - main\include\bullet.h
+	"player.h"
+	"enemy.h"
+	<vector>
+
+1691128863 c:\media\onedrive - huce\miscellaneous\project\visual studio code\project 2 - main\include\player.h
+	"ship.h"
+	"bullet.h"
+	<vector>
+
+1691128818 c:\media\onedrive - huce\miscellaneous\project\visual studio code\project 2 - main\include\ship.h
+	<vector>
+
+1691127381 c:\media\onedrive - huce\miscellaneous\project\visual studio code\project 2 - main\include\enemy.h
+	"ship.h"
+	"bullet.h"
+
+1691127390 source:c:\media\onedrive - huce\miscellaneous\project\visual studio code\project 2 - main\src\enemy.cpp
+	"enemy.h"
+	"ship.h"
+	"bullet.h"
+	<cstdlib>
+
+1691128998 source:c:\media\onedrive - huce\miscellaneous\project\visual studio code\project 2 - main\src\main.cpp
+	"game.h"
+	"stage1.h"
+	"player.h"
+	"enemy.h"
+	<iostream>
+	<windows.h>
+	<vector>
+	<chrono>
+	<thread>
+
+1690900158 c:\media\onedrive - huce\miscellaneous\project\visual studio code\project 2 - main\include\game.h
+	"stage.h"
+	"player.h"
+	"enemy.h"
+
+1690948274 c:\media\onedrive - huce\miscellaneous\project\visual studio code\project 2 - main\include\stage.h
+
+1690948776 c:\media\onedrive - huce\miscellaneous\project\visual studio code\project 2 - main\include\stage1.h
+	"stage.h"
+
+1691128818 source:c:\media\onedrive - huce\miscellaneous\project\visual studio code\project 2 - main\src\player.cpp
+	"player.h"
+	"game.h"
+	"ship.h"
+	"bullet.h"
+	<iostream>
+	<windows.h>
+	<vector>
+	<conio.h>
+
+1690863046 source:c:\media\onedrive - huce\miscellaneous\project\visual studio code\project 2 - main\src\ship.cpp
+	"ship.h"
+	<vector>
+
+1690948022 source:c:\media\onedrive - huce\miscellaneous\project\visual studio code\project 2 - main\src\stage.cpp
+	"stage.h"
+	<vector>
+
+1690951367 source:c:\media\onedrive - huce\miscellaneous\project\visual studio code\project 2 - main\src\stage1.cpp
+	"stage1.h"
+	"enemy.h"
+	<iostream>
+	<vector>
+
+1691129024 source:c:\media\onedrive - huce\miscellaneous\project\visual studio code\project 2 - main\src\game.cpp
+	"game.h"
+	"stage.h"
+	"player.h"
+	"enemy.h"
+	"bullet.h"
+	<iostream>
+	<windows.h>
+	<vector>
+
